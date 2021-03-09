@@ -81,9 +81,11 @@ for current_user in verified_users:
     print(f"\t{current_user.title()}")
 
 # removing all instances of a specific value from a list
-pets = ['dog', 'cat', 'dog', 'goldfish', 'cat', 'rabbit', 'cat']
+pets = ["dog", "cat", "dog", "goldfish", "cat", "rabbit", "cat"]
 print(pets)
-while 'cat' in pets:
-    pets.remove('cat')
+while "cat" in pets:
+    pets.remove("cat")
 print(pets)
 
+# added this to test github
+print("this is a github test")
