@@ -89,9 +89,3 @@ print(pets)
 
 # added this to test github
 print("this is a github test")
-
-# made a change to test github
-
-# the change above was made on the laptop and updated in github
-# the the whole thing was cloned to the desktop here
-# now testing adding this back and finding it on the laptop
