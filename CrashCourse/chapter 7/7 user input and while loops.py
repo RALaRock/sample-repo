@@ -94,3 +94,4 @@ print("this is a github test")
 # testing github again after renaming repository
 # closed VSCode and renamed folder for local repository, now testing to see if it's still linked for github updates
 # this change is on the PC
+# github local app had to be told where the repository was because of the name change, but all good after fixing that
