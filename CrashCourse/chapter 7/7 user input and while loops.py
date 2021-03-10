@@ -86,6 +86,3 @@ print(pets)
 while "cat" in pets:
     pets.remove("cat")
 print(pets)
-
-# added this to test github
-print("this is a github test")
